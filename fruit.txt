@@ -4,3 +4,5 @@
 4. lemon
 5. grape
 6. watermelon
+7. muscdine
+8. blueberry
