@@ -2,3 +2,5 @@
 2. orange
 3. strawberry
 4. lemon
+5. grape
+6. watermelon
